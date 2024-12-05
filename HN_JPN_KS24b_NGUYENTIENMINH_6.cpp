@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-        int m, m1;
+        int m,;
         int n = 0;
         int index;
         int temp;
