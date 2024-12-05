@@ -8,10 +8,10 @@ int main() {
         int j, key;
         int arr[100];
         do {
-        	printf("-------MENU-------\n");
-        	printf("Moi Ban Nhap Lua Chon Cua Minh\n");
-        	printf("1.Nhap so phan tu va gia tri cho mang\n");
-            printf("2.In ra gia tri cac phan tu trong mang theo dang (arr[0] = 1, arr[1] = 5 …).\n");
+            printf("-------MENU-------\n");
+            printf("Moi Ban Nhap Lua Chon Cua Minh\n");
+            printf("1.Nhap so phan tu va gia tri cho mang\n");
+            printf("2.In ra gia tri cac phan tu trong mang theo dang (arr[0] = 1, arr[1] = 5 â€¦).\n");
             printf("3.Dem so luong cac so hoan hao co trong mang. Biet so hoan hao la so co tong cac uoc bang chinh no\n");
             printf("4.Tim gia tri lon thu 2 trong mang, khong duoc sap xep mang");
             printf("5.Them mot phan tu vao vi tri ngau nhien trong mang, phan tu moi them vao mang va vi tri them vao phai do nguoi dung nhap vao,chi them phan tu do vao mangneu phan tu do chua ton tai trong mang\n");
@@ -144,7 +144,7 @@ int main() {
                         }
                         break;
                 case 11:
-                	    break;
+                	break;
                 }
                 return 0;
     }
